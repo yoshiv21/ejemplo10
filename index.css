@@ -1,0 +1,62 @@
+body{
+    background-color: white;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: black;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+    width: 40%;
+    font-size: 20px;
+    display: inline-block;
+    padding: 15px 0 10px 0;
+}
+
+header h1 a {
+    color: white;
+    text-decoration: none;
+}
+
+header ul {
+    margin: 0;
+    display: inline-block;
+    width: 50%;
+    padding: 0;
+    text-align: right;
+}
+
+header ul li {
+    display: inline-block;
+    width: 30%;
+}
+
+section#busqueda {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+section#lista-tours article {
+    text-align: center;
+}
+
+section#lista-tours article img{
+    width: 300px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+footer p {
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
